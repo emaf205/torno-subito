@@ -1,0 +1,20 @@
+TORNO SUBITO
+│
+├── .gitignore
+├── LICENSE
+├── VERSION.txt
+├── README.md
+├── CHANGELOG.md
+├── STRUCTURE.txt
+├── site/
+│   └── index.php
+├── docs/
+│   ├── CONCEPT.md
+│   ├── PROJECT.md
+│   ├── ARTIST-STATEMENT.md
+│   ├── STATES.md
+│   └── NOTE.md
+└── assets/
+    ├── ferramenta-valenti-concept.png
+    ├── six-concepts.png
+    └── early-concepts.png
