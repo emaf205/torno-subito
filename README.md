@@ -1,7 +1,7 @@
 # TORNO SUBITO // The Website That Closes
 
 <p align="center">
-  <img src="https://emaf205.com/github/assets/covers/torno-subito.jpg" alt="TORNO SUBITO Cover Artwork" width="100%">
+  <img src="assets/social-preview.jpg" alt="TORNO SUBITO Cover Artwork" width="100%">
 </p>
 
 > **"Internet isn't supposed to close. This website does."**  
